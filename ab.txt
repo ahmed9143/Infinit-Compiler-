@@ -1,0 +1,2 @@
+# Infinite-Compiler-
+taking Compiler Design Course as a reference to make it. Used technology =>  Python

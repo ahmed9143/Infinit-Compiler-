@@ -1,0 +1,25 @@
+int a = 5;
+int b = 10;
+int c = a + b;
+print(a);
+
+if (a >= 3) { 
+    print(a); 
+}
+
+if (a <= 3) {
+     print(a); 
+     print()
+} 
+else { 
+    print(c); 
+}
+    
+while (a == 3){ 
+    print(b); 
+}
+
+while (a != 3){ 
+    print(b); 
+}
+
